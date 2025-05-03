@@ -12,10 +12,10 @@
 }
 
 :root {
-    --bg-color: #fdfdfd;
+    --bg-color: #fdfdfd83;
     --text-color: #333;
-    --main-color: #f9624e;
-    --white-color: #fdfdfd;
+    --main-color: #152a64;
+    --white-color: #ea7b7b5f;
     --shadow-color: rgba(0, 0, 0, .2);
 }
 
@@ -458,7 +458,7 @@ span {
 
 .portfolio-layer a i {
     font-size: 2rem;
-    color: #333;
+    color: #333333ec;
 }
 
 .testimonial-container {
